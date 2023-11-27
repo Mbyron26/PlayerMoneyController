@@ -10,4 +10,4 @@ Increase/decrease palyer money manually.
 - The settings file is located in C:\Users\ "YOUR ACCOUNT NAME" \AppData\LocalLow\Colossal Order\Cities Skylines II\PlayerMoneyControllerSettings.json
 - Open the settings file and change its value, such as "ManuallyMoneyAmount": 100
 ## Credits
-Tthanks to the Cities Skylines modding community.
+Thanks to the Cities Skylines modding community.
