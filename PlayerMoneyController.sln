@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.7.34202.233
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlayerMoneyController", "PlayerMoneyController\PlayerMoneyController.csproj", "{380C35FC-532A-4741-A5D5-A7B0E0F9EEE8}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlayerMoneyController", "PlayerMoneyController\PlayerMoneyController.csproj", "{F1A21031-013D-400F-8CFB-0C21D7F32FDD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{380C35FC-532A-4741-A5D5-A7B0E0F9EEE8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{380C35FC-532A-4741-A5D5-A7B0E0F9EEE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{380C35FC-532A-4741-A5D5-A7B0E0F9EEE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{380C35FC-532A-4741-A5D5-A7B0E0F9EEE8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F1A21031-013D-400F-8CFB-0C21D7F32FDD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1A21031-013D-400F-8CFB-0C21D7F32FDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1A21031-013D-400F-8CFB-0C21D7F32FDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1A21031-013D-400F-8CFB-0C21D7F32FDD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {A450F133-F97A-42FA-AAB3-B8520DE145E8}
+		SolutionGuid = {88ECC23E-C409-4157-9AF1-57BB27B9D440}
 	EndGlobalSection
 EndGlobal

@@ -1,6 +1,7 @@
 ﻿using Game;
 using Game.City;
 using Game.Simulation;
+using Unity.Entities;
 using UnityEngine.InputSystem;
 
 namespace PlayerMoneyController;
@@ -47,5 +48,7 @@ public class PlayerMoneyControllerSystem : GameSystemBase {
         EntityManager.SetComponentData(citySystem.City, componentData);
     }
 
-    protected override void OnUpdate() { }
+    protected override void OnUpdate() {
+        Mod.Log.Info("PlayerMoneyControllerSystem: OnUpdate");
+    }
 }

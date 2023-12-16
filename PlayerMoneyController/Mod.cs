@@ -1,5 +1,4 @@
 ﻿using BepInEx;
-using BepInEx.Unity.Mono;
 using Colossal.Logging;
 using HarmonyLib;
 using System.Linq;
@@ -11,7 +10,7 @@ namespace PlayerMoneyController;
 public class Mod : BaseUnityPlugin {
     public const string RAWMODNAME = "PlayerMoneyController";
     public const string MODNAME = "Player Money Controller";
-    public const string MODVERSION = "0.1.0";
+    public const string MODVERSION = "0.2.0";
     public static readonly ILog Log = LogManager.GetLogger(RAWMODNAME, true);
 
     private void Awake() {
@@ -27,4 +26,3 @@ public class Mod : BaseUnityPlugin {
     }
 
 }
-
