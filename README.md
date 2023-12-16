@@ -4,7 +4,7 @@ A mod for Cities: Skylines 2
 Increase/decrease palyer money manually.
 ## Prerequisites
 * [Cities: Skylines 2](https://www.paradoxinteractive.com/games/cities-skylines-ii/about)
-* [BepInEx v5 OR v6](https://github.com/BepInEx/BepInEx)
+* [BepInEx v5](https://github.com/BepInEx/BepInEx)
 ## Usage
 - On the first run, the default amount of money is 1,000,000, which can be changed manually, please press Ctrl+ Shift+ "=" to increase the money or Ctrl+ Shift+ "-" to decrease the money, make sure you add or subtract money at least once in Order to modify the money amount.
 - The settings file is located in C:\Users\ "YOUR ACCOUNT NAME" \AppData\LocalLow\Colossal Order\Cities Skylines II\PlayerMoneyControllerSettings.json
